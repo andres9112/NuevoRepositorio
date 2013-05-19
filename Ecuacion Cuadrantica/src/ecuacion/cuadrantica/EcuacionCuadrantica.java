@@ -1,4 +1,4 @@
-/*
+﻿/*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
@@ -8,6 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *ESTA ES UNA MODIFICACION DE PRUEBA AL CODIGO 
+ESTA ES UNA SEGUNDA MODIFICACION
  * @author usuario
  */
 public class EcuacionCuadrantica {

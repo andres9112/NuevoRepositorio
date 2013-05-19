@@ -7,7 +7,7 @@ package ecuacion.cuadrantica;
 import javax.swing.JOptionPane;
 
 /**
- *
+ *ESTA ES UNA MODIFICACION DE PRUEBA AL CODIGO 
  * @author usuario
  */
 public class EcuacionCuadrantica {
